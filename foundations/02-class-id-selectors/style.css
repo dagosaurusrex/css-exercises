@@ -1,10 +1,15 @@
 .odd-rows {
     background-color: lightpink;
-    font-family: Verdana, "DejaVu Sans", sans-serif;
-    font-size: 24px;
+    font-family:    Verdana, "DejaVu Sans", sans-serif;
 }
 
 .big-blue {
     font-size: 36px;
     color: blue;
+}
+
+.green-rows {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
