@@ -9,6 +9,6 @@ Use this section to check your work. On _these_ projects, your goal isn't to att
 
 - Div One and Div Three have 32px between their text and border. 12px padding - done!
 - Div One has 12px between it and any other element on the page. 12px margin - done!
-- There is a 48px gap between Div Two and Div Three.
+- There is a 48px gap between Div Two and Div Three. - done!
 - Div Three is aligned to the right. - done!
 - Div Three's alignment is achieved using `margin` (and not float, flexbox, etc.).
